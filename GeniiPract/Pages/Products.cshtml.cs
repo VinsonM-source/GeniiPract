@@ -101,8 +101,9 @@ namespace GeniiPract.Pages
             {
                 List.Remove(value);
 
-                public bool Contains(ShoppingCartItem value) => (List.Contains(value));
+                
+                }
             }
         }
     }
-}
+
